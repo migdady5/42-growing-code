@@ -1,1 +1,19 @@
-# migdady5\n\n## 42-growing-code\n\n42 Growing Code is a software project developed during the 42 Common Core.\n\nThis repository contains work completed as part of the 42 Software Engineering Common Core.\n
+# migdady5
+
+# Growing Code
+
+A Python project that introduces programming through a garden and plant-management theme.
+
+## Exercises
+
+- Printing a first garden message
+- Working with garden and plant names
+- Calculating plot areas and harvest totals
+- Calculating plant age
+- Scheduling water reminders
+- Iterative and recursive harvest counting
+- Managing seed inventory
+
+The exercises build core skills with variables, functions, loops, recursion, and simple data structures.
+
+This activity has been created as part of the 42 curriculum by amigdadi.
